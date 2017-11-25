@@ -1,4 +1,4 @@
-package com.whitepigeongallery.examples.camel.comwhitepigeongalleryexamplescamel.rest;
+package com.whitepigeongallery.examples.camel.rest;
 
 
 import javax.ws.rs.Path;
