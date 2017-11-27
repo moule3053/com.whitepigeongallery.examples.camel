@@ -1,7 +1,5 @@
 package com.whitepigeongallery.examples.camel.lib;
 
-import org.apache.camel.CamelContext;
-import org.apache.camel.RoutesBuilder;
 import org.apache.camel.builder.RouteBuilder;
 
 import javax.enterprise.context.ApplicationScoped;
